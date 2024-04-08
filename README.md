@@ -1,14 +1,17 @@
 # GP_AppStore_Analysis
 **Introduction**
+
 Google Play store stands as a vibrant marketplace, hosting an extensive array of Android applications. Actionable insights can be drawn for developers to work on and capture the Android market!This dataset contains information such as names of the mobile apps from the Google Play store, categories, Android versions, Rating, Number of reviews, Number of installs, size of the app, when was last updated, and the current version of the mobile apps.
 There are 2 csv files in the current version of the dataset:
 - 'googleplaystore.csv'
 - 'googleplaystore_user_reviews.csv
 
 **Objective**
+
 The primary aim of this project is to conduct a thorough analysis of the dataset to identify significant insights. 
 
 **Dataset Descriptions of 'googleplaystore.csv'**
+
 - App: Name of the mobile application.
 - Category: Category or genre to which the app belongs.
 - Rating: User rating score of the app.
@@ -24,6 +27,7 @@ The primary aim of this project is to conduct a thorough analysis of the dataset
 - Android Ver: Minimum required Android version to run the app.
 
 **Dataset Descriptions of 'googleplaystore_user_reviews.csv'**
+
 - App:Name of the mobile application
 - Sentiments:classified on basis of positive, negative,neutral
 - Sentiment Polarity
@@ -31,9 +35,11 @@ The primary aim of this project is to conduct a thorough analysis of the dataset
 - Translated Review:Description of the reviews
   
 **Dashboard**
+
 ![](images/dashboard.png)
 
 **Insights**
+
 - the most installed category of mob app from this dataset:Youtube
 - total categories of apps:33
 - total paid apps:601
