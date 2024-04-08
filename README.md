@@ -26,4 +26,8 @@ The primary aim of this project is to conduct a thorough analysis of the dataset
 **Insights**
 -the most installed category of mob app from this dataset:Youtube
 -total categories of apps:33
+-total paid apps:601
 -Highest rating app:Events
+-Most reviewed app for free-Facebook
+-Most reviewed app for paid-Minecraft
+-35% displayed positive sentiments by category
