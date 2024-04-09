@@ -44,6 +44,7 @@ The primary aim of this project is to conduct a thorough analysis of the dataset
 - There are around 7% paid app with Minecraft being the most installed among them.
 - Family category apps are present in the highest numbers on the Play Store followed by games and tools.
 - Games are the most installed category with no of downloads about 3 times higher than family category.
-- Social apps like Facebook, Whatsapp, Instagram have the most reviewed by the users.
-- Events and Education category apps have highest customer satisfaction rate while Dating app have least customer satisfaction.
-- 35% displayed positive sentiments by category
+- Social apps like Facebook, Whatsapp, Instagram have the most reviewed by the users showing high user engagement with these apps.
+- Events and Education category apps are highest rated with maximum customer satisfaction while Dating app have least customer satisfaction.
+- Paid apps have significantly higher negative sentiment compared to the free apps.
+- Comics app have significanly higher sentiment polarity compared to highest rated category of Events.
