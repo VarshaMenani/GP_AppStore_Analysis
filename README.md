@@ -1,4 +1,4 @@
-# GP_AppStore_Analysis
+# Google Play AppStore Analysis
 **Introduction**
 
 Google Play store stands as a vibrant marketplace, hosting an extensive array of Android applications. Actionable insights can be drawn for developers to work on and capture the Android market!This dataset contains information such as names of the mobile apps from the Google Play store, categories, Android versions, Rating, Number of reviews, Number of installs, size of the app, when was last updated, and the current version of the mobile apps.
